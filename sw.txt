@@ -1,1 +1,2 @@
 Estoy aprendiendo Git para control de versiones
+Estoy entendiendo Git
